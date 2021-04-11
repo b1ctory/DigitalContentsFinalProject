@@ -4,5 +4,32 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main.unity
+    guid: 1e50a0defd27247058fcde1ec48845a7
+  - enabled: 1
+    path: Assets/Scenes/test.unity
+    guid: 814c83f7bfc82443dae32854eda26508
+  - enabled: 1
+    path: Assets/Scenes/studentInput.unity
+    guid: 75a726b751ae14c539f9f3608b6ab6e8
+  - enabled: 1
+    path: Assets/Scenes/Play.unity
+    guid: 4d84a5417c696443989b0c5201e23436
+  - enabled: 1
+    path: Assets/Scenes/quiz.unity
+    guid: 065c0a51567274a279caaf55453214da
+  - enabled: 1
+    path: Assets/Scenes/teacher.unity
+    guid: 53356f485ef794c9580741ba2a149b8d
+  - enabled: 1
+    path: Assets/Scenes/teacherInput.unity
+    guid: 4273e2e25c0d34966b0fc5ef95d73bbf
+  - enabled: 1
+    path: Assets/Scenes/end.unity
+    guid: 8e265dcd357e847af9ae12325aab39b8
+  - enabled: 1
+    path: Assets/Scenes/scoreboard.unity
+    guid: 08fdc8eb9fa374b47b54a711f567034b
   m_configObjects: {}

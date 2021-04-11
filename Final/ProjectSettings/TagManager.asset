@@ -7,6 +7,7 @@ TagManager:
   - Coin
   - Floor
   - wall
+  - Monster
   layers:
   - Default
   - TransparentFX
